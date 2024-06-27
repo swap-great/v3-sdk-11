@@ -1536,7 +1536,7 @@
 
 "@uniswap/sdk-core@https://github.com/swap-great/sdk-core.git":
   version "4.2.0"
-  resolved "https://github.com/swap-great/sdk-core.git#e2c3cd126c34afe8fc600edf85c7485bdaab9ec8"
+  resolved "https://github.com/swap-great/sdk-core.git#e52389342683ae7ce86a2afd20f22d37d3b29aa3"
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
